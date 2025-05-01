@@ -1,0 +1,3 @@
+sina,25
+best,12
+ali,8
